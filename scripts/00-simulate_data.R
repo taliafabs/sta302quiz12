@@ -2,7 +2,7 @@
 # Purpose: Simulate a data set where the chance that a cancer patient in one of 
 # the 5 largest hospitals in Sydney, Australia
 # dies depends on the hospital they were treated at, their age, the year, and the type of cancer
-# Author: Talia Fabregas, Fatimah Yunusa, Aamishi Sandeep
+# Author: Talia Fabregas
 # Date: 29 March 2024
 # Contact: talia.fabregas@mail.utoronto.ca
 # License: MIT
